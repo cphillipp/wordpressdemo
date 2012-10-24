@@ -1984,3 +1984,7 @@ h5.toggle.active + .toggle-content{
 .recent-works-items img:hover, .flickr-photo img:hover{
 	opacity:0.5;
 }
+
+/* CUSTOM */
+
+footer a 	{color:#bfbfbf;}
